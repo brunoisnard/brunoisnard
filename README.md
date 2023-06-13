@@ -18,5 +18,7 @@ Eu sou <strong>Bruno</strong>, <strong>Sou estadudante de Fullstack no Senac-PE 
 
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.isnard/"/></a>
+  <a class="apresentacao__links__navegacao" href="https://github.com/rafaballerini">Twitch
+                    <img src="./assets/twitch.png">
 
 </div>
