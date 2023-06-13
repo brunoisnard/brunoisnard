@@ -2,6 +2,8 @@
 
 Eu sou <strong>Bruno</strong>, <strong>Sou estadudante de Fullstack no Senac-PE Porto Digital</strong> 👨🏻‍💻 
 
+![](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
 - 🚀 Atualmente estou aprendendo: <strong>Html,Css,JS,Github</strong> 
 - 💬 Pergunte-me sobre: <strong>Programação</strong>
 - 📣 Nós podemos falar em: <strong>Portugues</strong>
