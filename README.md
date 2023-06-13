@@ -10,7 +10,7 @@ Eu sou <strong>Bruno</strong>, <strong>Sou estadudante de Fullstack no Senac-PE 
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
 
   <a href="https://www.linkedin.com/in/bruno-isnard-84b1a4120/" alt="Linkedin">
