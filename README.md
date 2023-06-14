@@ -8,7 +8,9 @@ Eu sou <strong>Bruno</strong>, <strong>Sou estadudante de Fullstack no Senac-PE 
 - 💬 Pergunte-me sobre: <strong>Programação</strong>
 - 📣 Nós podemos falar em: <strong>Portugues</strong>
 
-<div align="center">
+
+
+<div align="left">
 
   <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
